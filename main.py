@@ -3,8 +3,8 @@ import pandas as pd
 import time
 
 
-consumer_key = "7vvk6JmaYEH7Fm3dhKznjD5w6"  # Your API/Consumer key
-consumer_secret = "ZOzh0HcF8WfBLAGXH6qOsVHYTdXRcT7lgUApXNaJRZtU1w72Nk"  # Your API/Consumer Secret Key
+consumer_key = ""  # Your API/Consumer key
+consumer_secret = ""  # Your API/Consumer Secret Key
 access_token = "XXXX"  # Your Access token key
 access_token_secret = "XXXX"  # Your Access token Secret key
 
